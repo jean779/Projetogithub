@@ -1,0 +1,40 @@
+body {
+  background-color: #e1f8fc;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+nav{
+  color: white;
+}
+
+h6{
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+#circular{
+  border-radius: 50%;
+}
+
+.Fontseg{
+  font-family: 'Righteous', cursive;
+  color: rgb(6, 7, 7);
+  margin-left: 20%;
+  font-size: 16px;
+  text-shadow: 0.01em 0.01em 0.02em rgb(212, 212, 212)
+}
+
+.Fontfollow{
+  font-family: 'Righteous', cursive;
+  color: rgb(43, 46, 46);
+  margin-left: 20%;
+  font-size: 13px;
+}
+
+
+
+.position{
+  left: calc(50% - 200px);
+  top: calc(50vh - 200px);
+}
+
